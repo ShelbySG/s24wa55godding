@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "name": "s24wa55godding",
+  "version": "1.0.0",
+  "description": "server fro web apps",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shelby Godding",
+  "license": "ISC"
+}
