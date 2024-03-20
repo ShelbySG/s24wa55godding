@@ -1,15 +1,21 @@
 {
-  "dependencies": {
-    "express": "^4.18.3"
-  },
-  "name": "s24wa55godding",
-  "version": "1.0.0",
-  "description": "server fro web apps",
-  "main": "index.js",
-  "devDependencies": {},
+  "name": "webappsa9",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "author": "Shelby Godding",
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11"
+  },
+  "description": "Heyyyyyyy hope this assignment goes well for me",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "shelby godding",
   "license": "ISC"
 }
